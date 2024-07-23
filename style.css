@@ -1,0 +1,336 @@
+header{
+    height: 100px;
+    width: 1250px;
+    /* background-color: blue; */
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    height: 50px;
+    width: 200px;
+    /* background-color: brown; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 25px;
+}
+.menu-action{
+    height: 50px;
+    width: 700px;
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 25px;
+    margin-right: 50px;
+}
+.menu{
+    height: 50px;
+    width: 500px;
+    /* background-color: blueviolet; */
+    display: flex;
+    align-items: center;
+    
+    
+}
+.menu-links a{
+    text-decoration: none;
+    padding-left: 40px;
+    color: black;
+  
+}
+.action{
+    height: 30px;
+    width: 200px;
+    background-color:  black;
+    display: flex;
+    align-items: center;
+    color: white;
+    border-radius: 15px;
+    
+    
+    
+}
+.calendar{
+    height: 30px;
+    width: 30px;
+    background-color: orangered;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100px;
+
+  
+}
+.action-text{
+    margin-left: 25px;
+}
+.banner{
+    height: 700px;
+    width: 100%;
+    background-image: url("banner villa.jpg");
+    position: relative;
+}
+.space{
+    height: 100px;
+    width: 100%;
+    /* background-color: red; */
+  }
+  .toronto-canada-container{
+        height: 60%;
+        width:  25%;
+        
+        left: 200px;
+        position: absolute;
+        top: 150px;
+        justify-content: center;
+        flex-direction: column;
+
+  }
+  .toronto-canada{
+        height: 25px;
+        width: 150px;
+        background-color: white;
+        display: flex;
+        justify-content: space-around;
+        
+        
+  }
+  .hurry{
+        height: 53%;
+        width: 200px;
+        
+        font-size: 40px;
+        font-weight: bolder;
+        color: white;
+  }
+  .main-container{
+    height: 600px;
+    width: 2000px;
+    /* background-color: blue; */
+    padding-left: 30px;
+    top: 160%;
+    display: flex;
+    justify-content: ;
+    
+
+  }
+  .space{
+    height: 150px;
+    width: 100%;
+    /* background-color: red; */
+  }
+  .chair-table{
+    height: 455px;
+    width: 350px;
+    /* background-color: blueviolet; */
+    background-image: url("chairs picture.jpg");
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    
+    
+  }
+  .best-apartment-sea{
+    height: 600px;
+    width: 500px;
+    /* background-color: chartreuse; */
+    
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 25px;
+    
+  }
+  .total-flat-space{
+    height: 600px;
+    width: 300px;
+    /* background-color: chocolate; */
+    border: 0.5px solid black;
+  }
+  .icon{
+    height: 100px;
+    width: 200px;
+    background-color: orangered;
+    border-radius: 50px;
+    margin-top: 380px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 300px;
+    
+  }
+  .featured-text{
+    height: 25px;
+    width: 100px;
+    background-color: white;
+    font-weight: bold;
+    color: orangered;
+    font-size: 15px;
+    border-left: 1px solid black;
+  }
+  .best-apartment-text{
+    height: 100px;
+    width: 350px;
+    /* background-color: beige; */
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 50px;
+    
+  }
+  .best-useful-link{
+    height: 30px;
+    width: 350px;
+    background-color: white;
+    margin-top: 150px;
+    color: orangered;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  .get-the-best{
+    height: 100px;
+    width: 450px;
+    /* background-color: cadetblue; */
+    font-size: 17px;
+    border-top-width: 1px black;
+    border-bottom-width: 1px solid black;
+  }
+  .how-does-it-work{
+    height: 30px;
+    width: 350px;
+    /* background-color: darkgreen; */
+    
+    font-size: 20px;
+  }
+  .why-is-villa{
+    height: 30px;
+    width: 150px;
+    /* background-color: burlywood; */
+    font-size: 20px;
+  }
+  .total-flat{
+    height: 100px;
+    width: 250px;
+    /* background-color: deeppink; */
+    border-bottom: 1px solid black;
+    display: flex;
+  }
+  .contract-sales{
+    height: 100px;
+    width: 300px;
+    /* background-color: yellow; */
+    display: flex;
+  }
+  .payment{
+    height: 100px;
+    width: 300px;
+    /* background-color: skyblue; */
+    display: flex;
+  }
+  .safety{
+    height: 100px;
+    width: 300px;
+    /* background-color: brown; */
+    display: flex;
+  }
+  .contract-image{
+    height: 80px;
+    width: 100px;
+    /* background-color: red; */
+  }
+  .two-fifty-m2{
+    height: 40px;
+    width: 200px;
+    /* background-color: blue; */
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .total-flatt-spacee{
+    height: 40px;
+    width: 200px;
+    /* background-color: aqua; */
+    font-size: 20px;
+    color: #ccc;
+  }
+  .contract-ready{
+    height: 80px;
+    width: 100px;
+    /* background-color: red; */
+  }
+  .contract{
+    height: 40px;
+    width: 200px;
+    /* background-color: green; */
+    font-size: 25px;
+    
+  }
+  .contract-readyy{
+    height: 40px;
+    width: 200px;
+    /* background-color: black; */
+    font-size: 20px;
+    color: #ccc;
+    
+  }
+  .payment-icon{
+    height: 80px;
+    width: 100px;
+    /* background-color: red; */
+  }
+  .payment-writeup{
+    height: 40px;
+    width: 200px;
+    /* background-color: grey; */
+    font-size: 25px;
+    
+  }
+  .payment-write-up{
+    height: 40px;
+    width: 200px;
+    /* background-color: purple; */
+    font-size: 20px;
+    color: #ccc;
+    
+  }
+  .safety-icon{
+    height: 80px;
+    width: 100px;
+    /* background-color: red; */
+  }
+  .safety-writeup{
+    height: 40px;
+    width: 200px;
+    /* background-color: rgb(255, 0, 85); */
+    font-size: 25px;
+    
+  }
+  .safety-write-up{
+    height: 40px;
+    width: 200px;
+    /* background-color: yellowgreen; */
+    font-size: 20px;
+    color: #ccc;
+    
+  }
+  .space{
+    height: 150px;
+    width: 100%;
+    /* background-color: red; */
+  }
+.banner2{
+  height: 500px;
+  width: 3000%;
+  background-image: url("blurrry parlour image.jpg");
+  background-repeat: no-repeat;
+}
+.video-view{
+height: 30px;
+width: 100px;
+background-color: aqua;
+color: brown;
+border-left: 1px solid brown;
+}
